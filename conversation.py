@@ -5,7 +5,7 @@ print(1 + 2)
 # 변수활용
 name = input("당신의 이름은 무엇입니까?")
 print(name + "안녕하세요")
-
+print("주소라 사랑해")
 
 # 효제 연습
 # name = ["aaa", "bbb", 123, 123.45, ['aaa', 'ddd']]
